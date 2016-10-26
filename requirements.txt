@@ -1,0 +1,2 @@
+captcha==0.2.1
+Pillow==3.4.1
